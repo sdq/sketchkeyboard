@@ -4,7 +4,7 @@
 ![design](https://github.com/sdq/sketchkeyboard/blob/master/design.png)
 
 成品图
-![product](https://github.com/sdq/sketchkeyboard/blob/master/design.png)
+![product](https://github.com/sdq/sketchkeyboard/blob/master/product.jpg)
 
 你可以下载[Sketch原稿](https://github.com/sdq/sketchkeyboard/blob/master/sketchkeyboardcover.sketch)进行任意修改使用或生产。
 
